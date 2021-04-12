@@ -13,3 +13,5 @@ sec4(7,3,2,9)==7
 la fonction qui trouve le second plus grand parmi cinq nombres entiers ;
 
 lien vers l'énoncée: https://www.ai.univ-paris8.fr/~jj/Cours/C/P2021.html
+
+bon après relecture certain commentaire/commit ne sont pas tres pertinants ou approprié, mais bo il se fait tard
